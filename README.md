@@ -1,6 +1,6 @@
 # Business Performance Analysis Dashboard
 
-![Dashboard Overview](dashboard_screenshot.jpg)
+![Dashboard Overview](dashboard screenshot.jpg)
 
 ## 📋 Overview
 
