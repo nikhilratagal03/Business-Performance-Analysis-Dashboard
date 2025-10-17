@@ -1,7 +1,6 @@
 # Business Performance Analysis Dashboard
 
 ![Dashboard Overview](Dashboard%20screenshot.jpg)
-```
 
 ## 📋 Overview
 
@@ -104,20 +103,16 @@ The **Business Performance Analysis Dashboard** is a comprehensive Power BI proj
 Business-Performance-Dashboard/
 │
 ├── README.md
-├── dashboard_screenshot.png
-├── data/
-│   └── business_data.xlsx
-├── reports/
-│   └── performance_dashboard.pbix
-└── documentation/
-    └── data_dictionary.md
+├── Dashboard screenshot.jpg
+├── Business Performance Analysis Dashboard.pbix
+└── SaaS-Sales_B8E9E49F6C.csv
 ```
 
 ## 👤 Author
 
 **Nikhil Ratagal**
 
-- GitHub: https://github.com/nikhilratagal03
+- GitHub: [@nikhilratagal03](https://github.com/nikhilratagal03)
 - LinkedIn: https://www.linkedin.com/in/nikhil-ratagal/
 - Email: nikhilratagal003@gmail.com
 
