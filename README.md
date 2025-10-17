@@ -3,16 +3,6 @@
 ![Dashboard Overview](Dashboard%20screenshot.jpg)
 ```
 
-This is a **relative path** which means:
-- The image file `dashboard_screenshot.jpg` should be in the **same folder** as your `README.md` file
-- Both files should be in the **root (main) directory** of your GitHub repository
-
-**Your repository structure should look like:**
-```
-your-repository/
-├── README.md
-└── dashboard_screenshot.jpg
-
 ## 📋 Overview
 
 The **Business Performance Analysis Dashboard** is a comprehensive Power BI project designed to analyze and visualize key business metrics including revenue trends, customer behavior, product performance, and regional market contributions. This interactive dashboard enables stakeholders to make data-driven decisions through actionable insights and clear visualizations.
