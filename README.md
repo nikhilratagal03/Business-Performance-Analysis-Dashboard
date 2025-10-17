@@ -1,6 +1,6 @@
 # Business Performance Analysis Dashboard
 
-Dashboard%20screenshot.jpg
+![Dashboard Overview](Dashboard%20screenshot.jpg)
 ```
 
 This is a **relative path** which means:
